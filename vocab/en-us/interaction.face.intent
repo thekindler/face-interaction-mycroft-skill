@@ -1,8 +1,10 @@
-Face recognition greet name
+Face recognition greet {name}
 Face interaction greet
-Start face interaction name
-Face recognition start
+Start face interaction {name}
+start face recognition {name}
+Face recognition start {name}
 Face recognition interact
 Face recognition converse
 Face interaction converse
 Face interaction speak
+activate face recognition {name}
